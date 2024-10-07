@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img url="https://th.bing.com/th/id/OIP.CmTxn9h4V26CHfvyER4tyAHaEK?rs=1&pid=ImgDetMain" alt="Hình ảnh đại diện" />
+  <img src="https://th.bing.com/th/id/OIP.CmTxn9h4V26CHfvyER4tyAHaEK?rs=1&pid=ImgDetMain" alt="Hình ảnh đại diện" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Chào mừng bạn đến với hồ sơ GitHub của tôi! Tôi là một lập
 
 - **Gmail**: [YourGmail](mailto:quanndworks@gmail.com)
 - **Facebook**: [YourFacebookProfile](https://www.facebook.com/dwandzvcb/)
-- **Zalo**: [YourZaloNumber](0369249990)
+- **Zalo**: [YourZaloNumber](https://zalo.me/0369249990)
 
 ---
 
