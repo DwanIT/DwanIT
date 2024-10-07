@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.facebook.com/photo?fbid=1188124225633927&set=a.108697880243239/400x200" alt="Hình ảnh đại diện" />
+  <img src="https://www.facebook.com/photo?fbid=1188124225633927&set=a.108697880243239" alt="Hình ảnh đại diện" />
 </p>
 
 ---
