@@ -1,73 +1,48 @@
-<h1 align="center">👋 Chào mừng đến với GitHub của tôi!</h1>
-<h2 align="center">🌟 Tôi là <a href="https://github.com/DwanIT">@DwanIT</a></h2>
+# 👋 Hi, I’m @DwanIT
+
+![GitHub followers](https://img.shields.io/github/followers/DwanIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/DwanIT?style=social)
+
+## 👀 About Me
+- **🌍 Location**: Hà Nội, Việt Nam
+- **👨‍💻 I'm passionate about**:
+  - Web Development 🌐
+  - Data Science 📊
+  - Artificial Intelligence 🤖
+  - Java and Spring Boot ☕️
+
+## 🌱 I’m currently learning 
+- **React**: Tạo các giao diện người dùng tương tác.
+- **Machine Learning**: Xây dựng các mô hình dự đoán thông minh.
+- **Java and Spring Boot**: Phát triển ứng dụng web mạnh mẽ và hiệu quả.
+
+## 💞️ I’m looking to collaborate on 
+- **Open Source Projects**: Hãy cùng nhau tạo ra những sản phẩm tuyệt vời!
+- **Web Applications**: Các dự án sử dụng công nghệ hiện đại.
+
+## 📫 How to reach me 
+- **Email**: [quanndworks@gmail.com](mailto:quanndworks@gmail.com)
+
+## 😄 Pronouns: 
+- **He/Him**
+
+## ⚡ Fun fact: 
+- Tôi đã hoàn thành một thử thách viết mã 100 ngày và điều đó đã thay đổi cách nhìn của tôi về lập trình!
 
 ---
 
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIP.CmTxn9h4V26CHfvyER4tyAHaEK?rs=1&pid=ImgDetMain" alt="Hình ảnh đại diện" />
-</p>
+### 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%2336E7B7.svg?&style=for-the-badge&logo=spring&logoColor=black)
 
 ---
 
-## 🌍 Giới thiệu
+### 📈 GitHub Stats
+![DwanIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=DwanIT&show_icons=true&theme=radical)
 
-Chào mừng bạn đến với hồ sơ GitHub của tôi! Tôi là một lập trình viên trẻ đầy nhiệt huyết, đam mê công nghệ và luôn tìm kiếm cơ hội để phát triển kỹ năng và học hỏi những điều mới.
-
----
-
-## 🛠️ Kỹ năng của tôi
-
-- **Ngôn ngữ lập trình**: 
-  - Java
-  - JavaScript
-  - Python
-
-- **Frameworks**: 
-  - Spring Boot
-  - React
-
-- **Cơ sở dữ liệu**: 
-  - MySQL
-  - MongoDB
-
-- **Công cụ**: 
-  - Git
-  - Docker
-  - Visual Studio Code
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DwanIT&layout=compact&theme=radical)
 
 ---
-
-## 🌱 Học hỏi hiện tại
-
-- **Học máy (Machine Learning)**: Tìm hiểu cách xây dựng và triển khai các mô hình.
-- **Cloud Computing**: Làm quen với AWS và các dịch vụ điện toán đám mây khác.
-
----
-
-## 📫 Kết nối với tôi
-
-- **Gmail**: [YourGmail](mailto:quanndworks@gmail.com)
-- **Facebook**: [YourFacebookProfile](https://www.facebook.com/dwandzvcb/)
-- **Zalo**: [YourZaloNumber](https://zalo.me/0369249990)
-
----
-
-## 🎉 Thú vị về tôi
-
-- Tôi thích tham gia các cuộc thi lập trình và hackathon! 🏆
-- Thích nấu ăn và khám phá các công thức mới trong bếp! 🍳
-- Một fan hâm mộ lớn của anime và manga! 🎬
-
----
-
-## 📊 Thống kê GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DwanIT&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DwanIT&layout=compact&theme=dark)
-
----
-
-## 🌟 Cảm ơn bạn đã ghé thăm!
-
-Tôi rất vui khi bạn đã ghé thăm hồ sơ của tôi! Hãy kết nối và cùng nhau tạo ra những điều tuyệt vời!
