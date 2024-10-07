@@ -6,8 +6,6 @@
 - **🌍 Location**: Hà Nội, Việt Nam
 - **👨‍💻 I'm passionate about**:
   - Web Development 🌐
-  - Data Science 📊
-  - Artificial Intelligence 🤖
   - Java and Spring Boot ☕️
 
 ## 🌱 I’m currently learning 
