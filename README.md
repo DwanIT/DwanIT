@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.facebook.com/photo?fbid=1188124225633927&set=a.108697880243239" alt="Hình ảnh đại diện" />
+  <img url="https://th.bing.com/th/id/OIP.CmTxn9h4V26CHfvyER4tyAHaEK?rs=1&pid=ImgDetMain" alt="Hình ảnh đại diện" />
 </p>
 
 ---
